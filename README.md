@@ -1,10 +1,5 @@
 # WeLoveMovies Frontend Application
 
-This is the Front End Application for the WeLoveMovies project. Follow the instructions below.
+Please use the following link for the deployed front-end and back-end
 
-## Installation
-
-1. Fork / clone this repository.
-1. Run `npm install`.
-
-Use `npm start` to run the application. If you deploy this application, create a `.env.production` file similar to the `.env.development` file.
+https://aqueous-lowlands-79894.herokuapp.com/
